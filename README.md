@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI in medical imaging**
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact bonjour:)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
