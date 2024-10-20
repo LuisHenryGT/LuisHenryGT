@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Henry Gonzalez Torres</h1>
-<h3 align="center">Medical student and computer science enjoyer</h3>
+<h3 align="center">4th Medical student at McGill Univeristy and computer science enjoyer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luishenrygt&label=Profile%20views&color=0e75b6&style=flat" alt="luishenrygt" /> </p>
 
